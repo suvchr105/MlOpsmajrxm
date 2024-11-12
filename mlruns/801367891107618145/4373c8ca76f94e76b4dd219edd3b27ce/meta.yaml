@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/suvadipchakraborty/Documents/Mlopsxm/mlruns/801367891107618145/4373c8ca76f94e76b4dd219edd3b27ce/artifacts
+end_time: 1731395455026
+entry_point_name: ''
+experiment_id: '801367891107618145'
+lifecycle_stage: active
+run_id: 4373c8ca76f94e76b4dd219edd3b27ce
+run_name: logistic_regression
+run_uuid: 4373c8ca76f94e76b4dd219edd3b27ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731395453413
+status: 3
+tags: []
+user_id: suvadipchakraborty
